@@ -4,6 +4,7 @@ body {
     margin: 0;
     background-color: #f8f9fa;
     font-family: Arial, sans-serif;
+    padding-bottom: 50px;
 }
 
 header {
@@ -18,8 +19,12 @@ main {
     text-align: center;
 }
 
+main div {
+    max-width: 1000px;
+    margin: auto;
+}
+
 footer {
-    position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
