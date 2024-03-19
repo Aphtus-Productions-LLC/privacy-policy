@@ -2,7 +2,7 @@ body {
     position: relative;
     min-height: 100vh;
     margin: 0;
-    background-color: #f8f9fa;
+    background-color: black;
     font-family: Arial, sans-serif;
     padding-bottom: 50px;
 }
@@ -22,6 +22,10 @@ main {
 main div {
     max-width: 1000px;
     margin: auto;
+}
+
+main h2 p {
+    color: white;
 }
 
 footer {
